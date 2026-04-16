@@ -1,0 +1,42 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 20px;
+}
+
+h1 {
+    color: darkblue;
+    text-align: center;
+}
+
+h2 {
+    color: #333;
+    border-bottom: 2px solid darkblue;
+    padding-bottom: 5px;
+}
+
+table {
+    background-color: white;
+    border-collapse: collapse;
+    width: 60%;
+}
+
+td {
+    padding: 8px;
+}
+
+ul {
+    background-color: white;
+    padding: 10px;
+    width: 60%;
+}
+
+li {
+    margin: 5px 0;
+}
+
+/* Efek hover */
+li:hover {
+    color: blue;
+    cursor: pointer;
+}
